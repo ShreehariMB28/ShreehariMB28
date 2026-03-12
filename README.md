@@ -4,7 +4,7 @@
 * 🌱 I'm currently working on **KrishiYantra**, an agriculture equipment sharing platform.
 * 💻 I have experience with **C, Java, Python, and JavaScript**.
 * 🚀 I'm currently diving deeper into full-stack development by learning **React.js, Node.js, Express.js, and MySQL**.
-* 🧠 I'm consistently practicing **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills**.
+* 🧠 I'm consistently practicing **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills.
 
 ## 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeharimb28@gmail.com)
@@ -27,7 +27,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreehariMB28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
